@@ -1,0 +1,74 @@
+{
+  "correos":[
+  {
+    "Identificativo": "DAA0001",
+    "Correo": "daa0001@correo.net"
+  },
+  {
+    "Identificativo": "DAA0002",
+    "Correo": "daa0002@correo.net"
+  },
+  {
+    "Identificativo": "DAA0003",
+    "Correo": "daa0003@correo.net"
+  },
+  {
+    "Identificativo": "DAA0004",
+    "Correo": "daa0004@correo.net"
+  },
+  {
+    "Identificativo": "DAA0005",
+    "Correo": "daa0005@correo.net"
+  },
+  {
+    "Identificativo": "DAA0006",
+    "Correo": "daa0006@correo.net"
+  },
+  {
+    "Identificativo": "DAA0007",
+    "Correo": "daa0007@correo.net"
+  },
+  {
+    "Identificativo": "DAA0008",
+    "Correo": "daa0008@correo.net"
+  },
+  {
+    "Identificativo": "DAA0009",
+    "Correo": "daa0009@correo.net"
+  }
+ ],
+
+ "puntuaciones": [
+    { "Identificativo": "DAA0001", "rondas": 
+      [ {"Ronda 1": 20}, {"Ronda 2": 50}, {"Ronda 3": 60}, {"Ronda 4": 10} ]
+    }, 
+    { "Identificativo": "DAA0002", "rondas":
+      [{ "Ronda 1": 35 }, {"Ronda 2": 50}, {"Ronda 3": 60}, {"Ronda 4": 70}]
+    },
+    { "Identificativo": "DAA0003", "rondas":
+      [ {"Ronda 1": 90}, {"Ronda 2": 80}, {"Ronda 3": 70}, {"Ronda 4": 100 }]
+    },
+    
+    { "Identificativo": "DAA0004", "rondas":
+      [{ "Ronda 1": 10}, {"Ronda 2": 40}, {"Ronda 3": 80}, {"Ronda 4": 63 }]
+    },
+  
+    { "Identificativo": "DAA0005", "rondas":
+      [{ "Ronda 1": 85}, {"Ronda 2": 56}, {"Ronda 3": 66}, {"Ronda 4": 71 }]
+    },
+  
+    { "Identificativo": "DAA0006", "rondas":
+      [{"Ronda 1": 67}, {"Ronda 2": 50}, {"Ronda 3": 46}, {"Ronda 4": 52  }]
+    },
+  
+    { "Identificativo": "DAA0007", "rondas":
+      [{"Ronda 1": 76}, {"Ronda 2": 58}, {"Ronda 3": 69}, {"Ronda 4": 97  }]
+    },
+    { "Identificativo": "DAA0008", "rondas":
+      [ {"Ronda 1": 15}, {"Ronda 2": 50}, {"Ronda 3": 60}, {"Ronda 4": 52 }]
+    },
+    { "Identificativo": "DAA0009", "rondas": 
+      [{"Ronda 1": 58}, {"Ronda 2": 45}, {"Ronda 3": 91}, {"Ronda 4": 89 }]
+    }
+  ]
+}
